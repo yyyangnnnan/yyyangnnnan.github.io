@@ -1,4 +1,3 @@
-**其他语言版本: [English](README.md), [中文](README.zh-CN.md).**
 # my-vuepress-site
 
 网站使用 [vuepress](https://vuepress.vuejs.org/) 和 [vuepress-theme-plume](https://github.com/pengzhanbo/vuepress-theme-plume) 构建生成。
