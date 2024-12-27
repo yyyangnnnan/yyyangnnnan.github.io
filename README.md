@@ -1,3 +1,4 @@
+**Read this in other languages: [English](README.md), [中文](README.zh-CN.md).**
 # my-vuepress-site
 
 The Site is generated using [vuepress](https://vuepress.vuejs.org/) and [vuepress-theme-plume](https://github.com/pengzhanbo/vuepress-theme-plume)
