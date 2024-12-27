@@ -1,4 +1,4 @@
-
+[中文](README.zh-CN.md) | [English](#)
 # my-vuepress-site
 
 The Site is generated using [vuepress](https://vuepress.vuejs.org/) and [vuepress-theme-plume](https://github.com/pengzhanbo/vuepress-theme-plume)
